@@ -1,0 +1,20 @@
+forked new child. child id = 0. number = 101. launch time = 0 sec 10000000 nanosec.
+forked new child. child id = 1. number = 105. launch time = 0 sec 20000000 nanosec.
+forked new child. child id = 2. number = 109. launch time = 0 sec 30000000 nanosec.
+child with id = 2 is done working. timestamp = 0 sec 30000000 nanosec.
+forked new child. child id = 3. number = 113. launch time = 0 sec 40000000 nanosec.
+child with id = 1 is done working. timestamp = 0 sec 40000000 nanosec.
+forked new child. child id = 4. number = 117. launch time = 0 sec 50000000 nanosec.
+child with id = 0 is done working. timestamp = 0 sec 50000000 nanosec.
+forked new child. child id = 5. number = 121. launch time = 0 sec 60000000 nanosec.
+child with id = 4 is done working. timestamp = 0 sec 60000000 nanosec.
+child with id = 3 is done working. timestamp = 0 sec 70000000 nanosec.
+child with id = 5 is done working. timestamp = 0 sec 80000000 nanosec.
+total 3 primes found. they are -
+101
+109
+113
+total 3 non primes found. they are -
+-105
+-117
+-121
