@@ -1,1 +1,14 @@
-help
+Step :1 
+make
+
+Step :2
+./oss -b 101 -i 4 -n 6 -s 3
+
+-b = Start value
+-i = Increment between numbers
+-n = Total children 
+-s = Maximum simultaneous children
+
+output file = output.log
+
+version control : git : /classes/OS/madiredd/madiredd.2
